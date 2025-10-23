@@ -1,1 +1,1 @@
-def beta(): return 42
+def beta(): return 'OK'
